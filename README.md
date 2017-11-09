@@ -62,4 +62,3 @@ var sizeInPixels = style.space(2))
 var colorRed = style.colors.mora
 ```
 
-Will return a string containing '16px'. The given parameter will return the given space in pixels multiple of 8
